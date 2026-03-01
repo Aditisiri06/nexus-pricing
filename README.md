@@ -112,4 +112,4 @@ Everything else updates automatically.
 | `react-scripts` (CRA) | Zero config setup | Vite would be faster |
 
 ## Preview
-![Dashboard](assets/dashboard)
+![Dashboard](assets/dashboard.png)
