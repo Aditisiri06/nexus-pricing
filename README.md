@@ -110,3 +110,6 @@ Everything else updates automatically.
 | Single `App.css` file | Simpler for submission | Scales better with CSS modules |
 | Props drilling over Context | Only 2 levels deep | Context better for larger apps |
 | `react-scripts` (CRA) | Zero config setup | Vite would be faster |
+
+## Preview
+![Dashboard](assets/dashboard)
