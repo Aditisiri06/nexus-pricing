@@ -4,7 +4,7 @@ A responsive, interactive subscription pricing dashboard built with **React 18**
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ```bash
 # 1. Install dependencies
@@ -22,7 +22,7 @@ npm run build
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 nexus-pricing/
@@ -47,7 +47,7 @@ nexus-pricing/
 
 ---
 
-## ✅ Features Implemented
+## Features Implemented
 
 | Requirement | How |
 |---|---|
@@ -67,7 +67,7 @@ nexus-pricing/
 
 ---
 
-## 🧠 React Concepts Used
+## React Concepts Used
 
 | Concept | Where |
 |---|---|
@@ -82,7 +82,7 @@ nexus-pricing/
 
 ---
 
-## 🎨 Design Decisions
+##  Design Decisions
 
 **Aesthetic: Luxury Dark Editorial**
 - `Cormorant Garamond` — elegant serif for prices (premium feel)
